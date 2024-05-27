@@ -1,0 +1,6 @@
+streamlit
+openai
+python-dotenv
+pypdf2
+python-docx
+pycryptodome
